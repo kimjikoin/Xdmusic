@@ -1,4 +1,4 @@
-from TeamAgora.core.bot import AnonXBot
+from TeamAgora.core.bot import Xdmusic
 from TeamAgora.core.dir import dirr
 from TeamAgora.core.git import git
 from TeamAgora.core.userbot import Userbot
